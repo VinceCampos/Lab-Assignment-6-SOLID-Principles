@@ -1,5 +1,5 @@
 # Lab-Assignment-6-SOLID-Principles
-public interface Order {
+//public interface Order {
 
   void calculateTotal(double price, int quantity);
 
