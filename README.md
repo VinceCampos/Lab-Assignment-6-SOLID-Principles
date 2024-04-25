@@ -1,4 +1,5 @@
 # Lab-Assignment-6-SOLID-Principles
+Implementing SOLID Principles in Object-Oriented Programming
 //public interface Order {
 
   void calculateTotal(double price, int quantity);
