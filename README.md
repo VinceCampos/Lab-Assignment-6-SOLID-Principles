@@ -1,7 +1,7 @@
 # Lab-Assignment-6-SOLID-Principles
 ### Improve the following codes to implement SOLID principles in OOP.
 
-> public interface Order {
+public interface Order {
 
   void calculateTotal(double price, int quantity);
 
