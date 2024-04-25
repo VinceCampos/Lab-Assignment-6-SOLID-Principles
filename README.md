@@ -52,4 +52,5 @@
       }
     }
 
-### UML DIAGRAM
+### UML CLASS DIAGRAM
+![Lab Assignment 6 SOLID Principles UML](https://github.com/VinceCampos/Lab-Assignment-6-SOLID-Principles/assets/152839517/28e9be9d-9d96-4a3b-9d7a-209e659c5af0)
