@@ -1,15 +1,15 @@
 # Lab-Assignment-6-SOLID-Principles
 ### Improve the following codes to implement SOLID principles in OOP.
 
-// public interface Order {
+public interface Order {
 
-  void calculateTotal(double price, int quantity);
+    void calculateTotal(double price, int quantity);
 
-  void placeOrder(String customerName, String address);
+    void placeOrder(String customerName, String address);
 
-  void generateInvoice(String fileName);
+    void generateInvoice(String fileName);
 
-  void sendEmailNotification(String email);
+    void sendEmailNotification(String email);
 }
 
 public class OrderAction implements Order {
